@@ -1,1 +1,3 @@
-deletes explorer [PASSCODE FOR EXE IS  {}  )
+deletes explorer 
+
+PASSCODE FOR EXE IS: {}
