@@ -3,4 +3,4 @@ deletes explorer
 PASSCODE FOR EXE IS: {}
 
 
-LEGAL: i am not liable for what this is used for and this is for educatianal/testing use only
+DISCLAIMER: I'm not responsible for any bad usage of this. This educational/testing purpouses only
